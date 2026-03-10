@@ -6,15 +6,15 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": ""
+    "ip": "Noob_Power.aternos.me",
+    "port": 56987,
+    "version": "1.21.11 (126)"
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -260.174,
+    "y": 71.00000,
+    "z": 72.493
   },
   "utils": {
     "auto-auth": {
